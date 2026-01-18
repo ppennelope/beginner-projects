@@ -1,14 +1,19 @@
 # My Learning Journey 🚀
 
-Yazılım öğrenme sürecimde geliştirdiğim projeleri burada topluyorum.
+Yazılım öğrenme sürecimde geliştirdiğim projeleri burada topluyorum. Bu depo, hem temel konuları pekiştirmek hem de gelişim sürecimi belgelemek amacıyla oluşturulmuştur.
 
 ## 📂 Projeler
 
 ### 1. Hesap Makinesi (Basic Calculator)
-Java ile geliştirdiğim, temel dört işlem yapabilen konsol tabanlı bir hesap makinesi.
-- **Kullanılan Dil:** Java
+Java ile geliştirdiğim, temel dört işlem yapabilen konsol tabanlı bir hesap makinesi.  
+- **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./basic-calculator)
 
----
-*Yeni projeler eklendikçe bu liste güncellenecektir.*
+### 2. Not Ortalaması Hesaplama (Calculate Grade Point Average)
+Öğrenciden alınan notlara göre ortalama hesaplayan, konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./calculate-grade-point-average)
 
+---
+
+*Yeni projeler eklendikçe bu liste düzenli olarak güncellenecektir.* 🚀
