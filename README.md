@@ -14,6 +14,11 @@ Java ile geliştirdiğim, temel dört işlem yapabilen konsol tabanlı bir hesap
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./calculate-grade-point-average)
 
+### 3. Sayı Sıralama Programı (Number Sorting Program)
+Kullanıcıdan alınan sayıları küçükten büyüğe sıralayan konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./number-sorting-program)
+
 ---
 
 *Yeni projeler eklendikçe bu liste düzenli olarak güncellenecektir.* 🚀
