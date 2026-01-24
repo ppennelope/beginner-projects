@@ -19,6 +19,6 @@ Kullanıcıdan alınan sayıları küçükten büyüğe sıralayan konsol tabanl
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./number-sorting-program)
 
----
+### 4. Sesli Harf Sayacı (Vowel Counter)
+Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol tabanlı Java uygulaması.  
 
-*Yeni projeler eklendikçe bu liste düzenli olarak güncellenecektir.* 🚀
