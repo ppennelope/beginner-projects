@@ -21,4 +21,10 @@ Kullanıcıdan alınan sayıları küçükten büyüğe sıralayan konsol tabanl
 
 ### 4. Sesli Harf Sayacı (Vowel Counter)
 Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./vowel-counter)
 
+### 5. Asal Sayı Bulma Programı (Prime Number Finder)
+1 ile 100 arasındaki asal sayıları bulan, iç içe for döngüsü ve koşul yapıları içeren konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./prime-number-finder)
