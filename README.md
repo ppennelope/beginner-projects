@@ -17,14 +17,14 @@ Java ile geliştirdiğim, temel dört işlem yapabilen konsol tabanlı bir hesap
 ### 3. Sayı Sıralama Programı (Number Sorting Program)
 Kullanıcıdan alınan sayıları küçükten büyüğe sıralayan konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./number-sorting-program)
+- **Konum:** [Kodları Görüntüle](./number-sorting)
 
 ### 4. Sesli Harf Sayacı (Vowel Counter)
 Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./vowel-counter)
+- **Konum:** [Kodları Görüntüle](./sesli_harf_sayaci)
 
 ### 5. Asal Sayı Bulma Programı (Prime Number Finder)
 1 ile 100 arasındaki asal sayıları bulan, iç içe for döngüsü ve koşul yapıları içeren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./prime-number-finder)
+- **Konum:** [Kodları Görüntüle](./asal_sayilar)
