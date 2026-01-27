@@ -1,0 +1,25 @@
+package sa;
+
+
+public class MukemmelSayilar {
+
+    public static void main(String[] args) {
+
+        System.out.println("1 ile 1000 arasindaki mukemmel sayilar:");
+
+        for (int sayi = 1; sayi <= 1000; sayi++) {
+
+            int toplam = 0;
+
+            for (int i = 1; i <= sayi / 2; i++) {
+                if (sayi % i == 0) {
+                    toplam += i;
+                }
+            }
+
+            if (toplam == sayi && sayi != 0) {
+                System.out.println(sayi + " mukemmel sayidir.");
+            }
+        }
+    }
+}
