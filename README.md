@@ -28,3 +28,8 @@ Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol taban
 1 ile 100 arasındaki asal sayıları bulan, iç içe for döngüsü ve koşul yapıları içeren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./asal_sayilar)
+
+### 6. Mükemmel Sayı Bulma Programı (Perfect Number Finder)
+1 ile 1000 arasındaki mükemmel sayıları (bölenleri toplamı kendisine eşit olan sayılar) bulan, iç içe for döngüsü ve koşul yapıları içeren konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./MukemmelSayilar)
