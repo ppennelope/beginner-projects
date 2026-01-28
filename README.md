@@ -33,3 +33,8 @@ Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol taban
 1 ile 1000 arasındaki mükemmel sayıları (bölenleri toplamı kendisine eşit olan sayılar) bulan, iç içe for döngüsü ve koşul yapıları içeren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./MukemmelSayilar)
+
+### 7. Armstrong Sayıları Bulma Programı (Armstrong Number Finder)
+Kullanıcının girdiği üst sınıra kadar olan Armstrong sayılarını bulan; basamak ayırma, üs alma ve iç içe döngüler içeren konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./armstrong_numbers)
