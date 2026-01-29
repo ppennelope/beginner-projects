@@ -38,3 +38,9 @@ Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol taban
 Kullanıcının girdiği üst sınıra kadar olan Armstrong sayılarını bulan; basamak ayırma, üs alma ve iç içe döngüler içeren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./armstrong_numbers)
+
+- ### 8. Mini ATM Sistemi (Mini ATM System)
+Kullanıcıdan şifre alarak giriş yapan; bakiye görüntüleme, para yatırma, para çekme ve çıkış işlemlerini menü üzerinden gerçekleştiren konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./mini-atm-system)
+
