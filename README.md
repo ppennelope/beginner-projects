@@ -44,3 +44,9 @@ Kullanıcıdan şifre alarak giriş yapan; bakiye görüntüleme, para yatırma,
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./mini-atm-system)
 
+- ### 9. Manav Uygulaması (Greengrocer Automation)
+Kullanıcının seçtiği ürün ve kilo miktarına göre toplam tutarı hesaplayan konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./manav-uygulamasi)
+
+
