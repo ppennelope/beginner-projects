@@ -49,4 +49,10 @@ Kullanıcının seçtiği ürün ve kilo miktarına göre toplam tutarı hesapla
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./manav-uygulamasi)
 
+- ### 10. Yapılacaklar Listesi (Console To-Do App)
+Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan görevleri işaretleyip silebildiği; menü tabanlı, tek dosyadan oluşan konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./java-console-todo)
+
+
 
