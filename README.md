@@ -54,5 +54,9 @@ Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan 
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./java-console-todo)
 
+### 11. Sayı Tahmin Oyunu (Number Guess Game)
+Bilgisayarın 1 ile 100 arasında rastgele tuttuğu sayıyı kullanıcının tahmin etmeye çalıştığı; büyük/küçük yönlendirmeleri yapan, kaç denemede doğru tahmin edildiğini gösteren konsol tabanlı Java uygulaması.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./number-guess-game)
 
 
