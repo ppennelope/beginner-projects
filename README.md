@@ -58,5 +58,9 @@ Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan 
 Bilgisayarın 1 ile 100 arasında rastgele tuttuğu sayıyı kullanıcının tahmin etmeye çalıştığı; büyük/küçük yönlendirmeleri yapan, kaç denemede doğru tahmin edildiğini gösteren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./number-guess-game)
+### 12. Taş-Kağıt-Makas Oyunu (Rock Paper Scissors)
+Kullanıcının taş, kağıt veya makas seçeneklerinden birini seçtiği; bilgisayarın rastgele seçim yaptığı ve kazananın oyun kurallarına göre belirlendiği, konsol tabanlı Java oyunu.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./rock-paper-s)
 
 
