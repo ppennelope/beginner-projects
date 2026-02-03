@@ -64,6 +64,6 @@ Bilgisayarın 1 ile 100 arasında rastgele tuttuğu sayıyı kullanıcının tah
 ### 12. Taş-Kağıt-Makas Oyunu (Rock Paper Scissors)
 Kullanıcının taş, kağıt veya makas seçeneklerinden birini seçtiği; bilgisayarın rastgele seçim yaptığı ve kazananın oyun kurallarına göre belirlendiği, konsol tabanlı Java oyunu.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./rock-paper-s)
+- **Konum:** [Kodları Görüntüle](./rock_paper_scissors)
 
 
