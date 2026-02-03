@@ -33,6 +33,7 @@ Kullanıcıdan alınan bir metin içerisindeki sesli harfleri sayan konsol taban
 1 ile 1000 arasındaki mükemmel sayıları (bölenleri toplamı kendisine eşit olan sayılar) bulan, iç içe for döngüsü ve koşul yapıları içeren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./MukemmelSayilar)
+- 
 
 ### 7. Armstrong Sayıları Bulma Programı (Armstrong Number Finder)
 Kullanıcının girdiği üst sınıra kadar olan Armstrong sayılarını bulan; basamak ayırma, üs alma ve iç içe döngüler içeren konsol tabanlı Java uygulaması.  
@@ -58,6 +59,8 @@ Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan 
 Bilgisayarın 1 ile 100 arasında rastgele tuttuğu sayıyı kullanıcının tahmin etmeye çalıştığı; büyük/küçük yönlendirmeleri yapan, kaç denemede doğru tahmin edildiğini gösteren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./number-guess-game)
+
+- 
 ### 12. Taş-Kağıt-Makas Oyunu (Rock Paper Scissors)
 Kullanıcının taş, kağıt veya makas seçeneklerinden birini seçtiği; bilgisayarın rastgele seçim yaptığı ve kazananın oyun kurallarına göre belirlendiği, konsol tabanlı Java oyunu.  
 - **Kullanılan Dil:** Java  
