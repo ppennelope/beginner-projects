@@ -66,4 +66,9 @@ Kullanıcının taş, kağıt veya makas seçeneklerinden birini seçtiği; bilg
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./rock_paper_scissors)
 
+### 13. Zar Atma Oyunu (Dice Game)
+Kullanıcının zar attığı ve bilgisayarın da rastgele zar attığı; atılan zarların karşılaştırılarak kazananın belirlendiği, konsol tabanlı Java oyunu.  
+- **Kullanılan Dil:** Java  
+- **Kullanılan Kütüphane:** Random  
+- **Konum:** [Kodları Görüntüle](./dice-game)
 
