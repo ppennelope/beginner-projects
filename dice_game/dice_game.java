@@ -1,3 +1,4 @@
+
 package sa;
 import java.util.Random;
 import java.util.Scanner;
@@ -30,8 +31,7 @@ public static void main(String[] args) {
 	}else {
 		System.out.println("berabere");
 	}
+	}
 	sc.close();
 	}
-}
-
 }
