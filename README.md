@@ -78,3 +78,7 @@ Bu programda `Random`, `Scanner`, döngüler (`while`) ve koşul yapıları (`if
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./MiniGameCenter)
 
+### 15. TextAnalyzer(Metin Analizcisi)
+Kullanıcının girdiği metini analiz edip içindeki harf sayısı, kelime sayısı, karakter sayısı, cümle sayısını ve metin içerisindeki en uzun kelimeyi belirleyip kullanıcıya söyleyen konsol tabanlı java uygulaması.
+- **Kullanılan Dil:** Java
+- - **Konum:** [Kodları Görüntüle](./TextAnalyzer)
