@@ -53,7 +53,7 @@ Kullanıcının seçtiği ürün ve kilo miktarına göre toplam tutarı hesapla
 - ### 10. Yapılacaklar Listesi (Console To-Do App)
 Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan görevleri işaretleyip silebildiği; menü tabanlı, tek dosyadan oluşan konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./java-console-todo)
+- **Konum:** [Kodları Görüntüle](./todolist)
 
 ### 11. Sayı Tahmin Oyunu (Number Guess Game)
 Bilgisayarın 1 ile 100 arasında rastgele tuttuğu sayıyı kullanıcının tahmin etmeye çalıştığı; büyük/küçük yönlendirmeleri yapan, kaç denemede doğru tahmin edildiğini gösteren konsol tabanlı Java uygulaması.  
