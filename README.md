@@ -58,7 +58,7 @@ Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan 
 ### 11. Sayı Tahmin Oyunu (Number Guess Game)
 Bilgisayarın 1 ile 100 arasında rastgele tuttuğu sayıyı kullanıcının tahmin etmeye çalıştığı; büyük/küçük yönlendirmeleri yapan, kaç denemede doğru tahmin edildiğini gösteren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./number-guess-game)
+- **Konum:** [Kodları Görüntüle](./guess_number)
 
 - 
 ### 12. Taş-Kağıt-Makas Oyunu (Rock Paper Scissors)
@@ -70,7 +70,7 @@ Kullanıcının taş, kağıt veya makas seçeneklerinden birini seçtiği; bilg
 Kullanıcının zar attığı ve bilgisayarın da rastgele zar attığı; atılan zarların karşılaştırılarak kazananın belirlendiği, konsol tabanlı Java oyunu.  
 - **Kullanılan Dil:** Java  
 - **Kullanılan Kütüphane:** Random  
-- **Konum:** [Kodları Görüntüle](./dice-game)
+- **Konum:** [Kodları Görüntüle](./dice_game)
 - 
 ### 14. Mini Oyun Merkezi (Mini Game Center)
 Menü tabanlı olarak çalışan; zar oyunu ve sayı tahmin oyunu içeren, puan sistemi bulunan konsol tabanlı Java uygulaması.  
