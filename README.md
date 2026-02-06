@@ -43,12 +43,12 @@ Kullanıcının girdiği üst sınıra kadar olan Armstrong sayılarını bulan;
 - ### 8. Mini ATM Sistemi (Mini ATM System)
 Kullanıcıdan şifre alarak giriş yapan; bakiye görüntüleme, para yatırma, para çekme ve çıkış işlemlerini menü üzerinden gerçekleştiren konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./mini-atm-system)
+- **Konum:** [Kodları Görüntüle](./MiniATM)
 
 - ### 9. Manav Uygulaması (Greengrocer Automation)
 Kullanıcının seçtiği ürün ve kilo miktarına göre toplam tutarı hesaplayan konsol tabanlı Java uygulaması.  
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./manav-uygulamasi)
+- **Konum:** [Kodları Görüntüle](./manav)
 
 - ### 10. Yapılacaklar Listesi (Console To-Do App)
 Kullanıcının görev ekleyebildiği, görevleri listeleyebildiği, tamamlanan görevleri işaretleyip silebildiği; menü tabanlı, tek dosyadan oluşan konsol tabanlı Java uygulaması.  
