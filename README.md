@@ -71,4 +71,10 @@ Kullanıcının zar attığı ve bilgisayarın da rastgele zar attığı; atıla
 - **Kullanılan Dil:** Java  
 - **Kullanılan Kütüphane:** Random  
 - **Konum:** [Kodları Görüntüle](./dice-game)
+- 
+### 14. Mini Oyun Merkezi (Mini Game Center)
+Menü tabanlı olarak çalışan; zar oyunu ve sayı tahmin oyunu içeren, puan sistemi bulunan konsol tabanlı Java uygulaması.  
+Bu programda `Random`, `Scanner`, döngüler (`while`) ve koşul yapıları (`if-else`) birlikte kullanılmıştır.  
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./MiniGameCenter)
 
