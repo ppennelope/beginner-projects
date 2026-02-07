@@ -82,3 +82,12 @@ Bu programda `Random`, `Scanner`, döngüler (`while`) ve koşul yapıları (`if
 Kullanıcının girdiği metini analiz edip içindeki harf sayısı, kelime sayısı, karakter sayısı, cümle sayısını ve metin içerisindeki en uzun kelimeyi belirleyip kullanıcıya söyleyen konsol tabanlı java uygulaması.
 - **Kullanılan Dil:** Java
 - - **Konum:** [Kodları Görüntüle](./TextAnalyzer)
+
+ ### 16. Mini Kütüphane Yönetim Sistemi (Mini Library Management System)
+
+Java ile geliştirdiğim, konsol tabanlı bir mini kütüphane yönetim uygulaması.  
+Kullanıcı menü üzerinden kitap ekleyebilir, kitapları listeleyebilir, kitap ödünç alıp iade edebilir.  
+Program diziler, döngüler ve koşul yapıları kullanılarak geliştirilmiştir.
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./LibraryApp)
+
