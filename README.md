@@ -91,3 +91,12 @@ Program diziler, döngüler ve koşul yapıları kullanılarak geliştirilmişti
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./LibraryApp)
 
+### 17. Mini Telefon Rehberi (Mini Phone Book)
+
+Java ile geliştirdiğim, konsol tabanlı basit bir telefon rehberi uygulaması.  
+Kullanıcı menü üzerinden kişi ekleyebilir, kayıtlı kişileri listeleyebilir ve isim ile arama yapabilir.  
+Program temel veri yapıları ve kontrol mekanizmaları kullanılarak geliştirilmiştir.
+
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./mini-phone-book)
+
