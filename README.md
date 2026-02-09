@@ -98,5 +98,5 @@ Kullanıcı menü üzerinden kişi ekleyebilir, kayıtlı kişileri listeleyebil
 Program temel veri yapıları ve kontrol mekanizmaları kullanılarak geliştirilmiştir.
 
 - **Kullanılan Dil:** Java  
-- **Konum:** [Kodları Görüntüle](./mini-phone-book)
+- **Konum:** [Kodları Görüntüle](./PhoneBook)
 
