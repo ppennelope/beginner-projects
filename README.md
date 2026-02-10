@@ -100,3 +100,12 @@ Program temel veri yapıları ve kontrol mekanizmaları kullanılarak geliştiri
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./PhoneBook)
 
+
+### 18. Not Ortalaması Hesaplama Programı (Grade Calculator)
+
+Java ile geliştirdiğim, konsol tabanlı bir not ortalaması hesaplama uygulaması.  
+Kullanıcı ders adı ve not girerek kayıt oluşturabilir, girilen notları listeleyebilir ve genel not ortalamasını hesaplayabilir.  
+Program diziler, döngüler ve koşul yapıları kullanılarak geliştirilmiştir.
+
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./GradeCalculator)
