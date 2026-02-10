@@ -1,0 +1,77 @@
+import java.util.Scanner;
+
+public class GradeCalculator {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String[] dersler = new String[5];
+        int[] notlar = new int[5];
+        int sayac = 0;
+
+        while (true) {
+            System.out.println("\n--- Not Ortalaması Programı ---");
+            System.out.println("1- Ders ve Not Ekle");
+            System.out.println("2- Notları Listele");
+            System.out.println("3- Ortalama Hesapla");
+            System.out.println("0- Çıkış");
+            System.out.print("Seçim: ");
+
+            int secim = sc.nextInt();
+            sc.nextLine();
+
+            if (secim == 0) {
+                System.out.println("Program kapatıldı.");
+                break;
+            }
+
+            else if (secim == 1) {
+                if (sayac >= dersler.length) {
+                    System.out.println("Daha fazla ders eklenemez.");
+                } else {
+                    System.out.print("Ders adı: ");
+                    dersler[sayac] = sc.nextLine();
+
+                    System.out.print("Not: ");
+                    notlar[sayac] = sc.nextInt();
+                    sc.nextLine();
+
+                    sayac++;
+                    System.out.println("Ders eklendi.");
+                }
+            }
+
+            else if (secim == 2) {
+                if (sayac == 0) {
+                    System.out.println("Henüz ders yok.");
+                } else {
+                    for (int i = 0; i < sayac; i++) {
+                        System.out.println((i + 1) + ". " + dersler[i] + " - " + notlar[i]);
+                    }
+                }
+            }
+
+            else if (secim == 3) {
+                if (sayac == 0) {
+                    System.out.println("Not yok.");
+                } else {
+                    int toplam = 0;
+
+                    for (int i = 0; i < sayac; i++) {
+                        toplam += notlar[i];
+                    }
+
+                    double ortalama = (double) toplam / sayac;
+                    System.out.println("Not Ortalaması: " + ortalama);
+                }
+            }
+
+            else {
+                System.out.println("Hatalı seçim.");
+            }
+        }
+
+        sc.close();
+    }
+}
