@@ -109,3 +109,12 @@ Program diziler, döngüler ve koşul yapıları kullanılarak geliştirilmişti
 
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./GradeCalculator)
+
+### 19. Şifre Güç Kontrolü (Password Strength Checker)
+
+Java ile geliştirdiğim, konsol tabanlı bir şifre güç kontrol uygulaması.  
+Kullanıcıdan alınan şifre; uzunluk, büyük harf, küçük harf, rakam ve özel karakter içerme durumuna göre analiz edilir ve şifrenin güçlü veya zayıf olduğu belirlenir.  
+Program metot kullanımı ve karakter kontrol mekanizmaları ile geliştirilmiştir.
+
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./password-strength-checker)
