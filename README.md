@@ -1,8 +1,8 @@
-# My Learning Journey 🚀
+# My Learning Journey 
 
 Yazılım öğrenme sürecimde geliştirdiğim projeleri burada topluyorum. Bu depo, hem temel konuları pekiştirmek hem de gelişim sürecimi belgelemek amacıyla oluşturulmuştur.
 
-## 📂 Projeler
+##  Projeler
 
 ### 1. Hesap Makinesi (Basic Calculator)
 Java ile geliştirdiğim, temel dört işlem yapabilen konsol tabanlı bir hesap makinesi.  
@@ -118,3 +118,9 @@ Program metot kullanımı ve karakter kontrol mekanizmaları ile geliştirilmiş
 
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./password-strength-checker)
+
+- ### 20. Inventory System
+- Java ile geliştirdiğim menü ve konsol tabanlı bir stok konrol uygulaması.
+- Kullanıcı tabanlı olup kullanıcıdan aldığı bilgileri depolar ve istek doğrultusunda ürünün stok artırımı veya azaltımı yapılır.
+- Program basic veri yapıları ve kontrol mekanizmaları kullanarak geliştirilmiştir
+-
