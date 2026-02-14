@@ -123,4 +123,14 @@ Program metot kullanımı ve karakter kontrol mekanizmaları ile geliştirilmiş
 - Java ile geliştirdiğim menü ve konsol tabanlı bir stok konrol uygulaması.
 - Kullanıcı tabanlı olup kullanıcıdan aldığı bilgileri depolar ve istek doğrultusunda ürünün stok artırımı veya azaltımı yapılır.
 - Program basic veri yapıları ve kontrol mekanizmaları kullanarak geliştirilmiştir
--
+-**Konum:** [Kodları Görüntüle](./InventorySystem)
+### 21. Çoklu Öğrenci Sınav Analiz Sistemi (Exam Analysis System)
+
+Java ile geliştirdiğim, konsol tabanlı bir sınav analiz uygulaması.  
+Kullanıcıdan öğrenci sayısı ve soru sayısı alınır, her öğrenci için girilen puanlar üzerinden ortalama hesaplanır.  
+Program ayrıca sınıf ortalamasını ve en yüksek ortalamayı hesaplayarak analiz yapar.  
+İç içe döngüler ve iki boyutlu diziler kullanılarak geliştirilmiştir.
+
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./ExamAnalysisSystem)
+
