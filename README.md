@@ -124,8 +124,8 @@ Program metot kullanımı ve karakter kontrol mekanizmaları ile geliştirilmiş
 - Kullanıcı tabanlı olup kullanıcıdan aldığı bilgileri depolar ve istek doğrultusunda ürünün stok artırımı veya azaltımı yapılır.
 - Program basic veri yapıları ve kontrol mekanizmaları kullanarak geliştirilmiştir
 -**Konum:** [Kodları Görüntüle](./InventorySystem)
+  
 ### 21. Çoklu Öğrenci Sınav Analiz Sistemi (Exam Analysis System)
-
 Java ile geliştirdiğim, konsol tabanlı bir sınav analiz uygulaması.  
 Kullanıcıdan öğrenci sayısı ve soru sayısı alınır, her öğrenci için girilen puanlar üzerinden ortalama hesaplanır.  
 Program ayrıca sınıf ortalamasını ve en yüksek ortalamayı hesaplayarak analiz yapar.  
@@ -134,3 +134,12 @@ Program ayrıca sınıf ortalamasını ve en yüksek ortalamayı hesaplayarak an
 - **Kullanılan Dil:** Java  
 - **Konum:** [Kodları Görüntüle](./ExamAnalysisSystem)
 
+### 22. Sayı Piramidi ve Analiz Sistemi (Number Pyramid Analyzer)
+
+Java ile geliştirdiğim, konsol tabanlı bir sayı piramidi ve analiz uygulaması.  
+Kullanıcıdan alınan sayı doğrultusunda bir sayı piramidi oluşturulur.  
+Program, yazdırılan toplam sayı adedini, tek ve çift sayı miktarını ve en büyük değeri hesaplayarak analiz eder.  
+İç içe döngüler ve temel algoritma mantığı kullanılarak geliştirilmiştir.
+
+- **Kullanılan Dil:** Java  
+- **Konum:** [Kodları Görüntüle](./NumberPyramidAnalyzer)
